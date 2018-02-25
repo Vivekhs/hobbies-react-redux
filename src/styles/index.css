@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'open sans';
+}
+.cs-full-width{
+  width: 100%;
+}
+.cs-input-field{
+  margin-top: 2rem;
+}
+.cs-label{
+  font-weight: normal;
+  font-size: 1.6rem;
+  color: #636363;
+}
+
+
+

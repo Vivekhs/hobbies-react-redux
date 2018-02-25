@@ -1,0 +1,37 @@
+.custom-page-header{
+    background: linear-gradient(90deg, #0921a0, #489bf3);
+    height: 7.1rem;
+    width: 100%;
+  }
+  .custom-page-footer{
+    position: fixed;
+    bottom: 0;
+    background: linear-gradient(90deg, #0921a0, #489bf3);
+    height: 7.1rem;
+    width: 100%;
+  
+  }
+  .page-content-block{
+    height: calc(100vh - 14.2rem);
+    background-color: bisque;
+  }
+  .cs-brand-name{
+    color: #ffff;
+    line-height: 7.1rem;
+    font-size: 2.4rem;
+  }
+  .cs-user-welcome{
+    color: #ffff;
+    line-height: 7.1rem;
+    font-size: 1.8rem;
+  }
+  .cs-login-body{
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+    background-color: white;
+    padding: 3rem 2rem;
+    overflow: auto;
+  }
+  .login-body-align{
+    margin-top:calc( (100vh - 14.2rem)/10);
+  }
+  
